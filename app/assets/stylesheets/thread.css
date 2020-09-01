@@ -1,0 +1,29 @@
+.meta{
+  margin-bottom: 10px;
+}
+
+.content{
+  margin-bottom: 10px;
+}
+
+.count{
+  float: right;
+  margin-bottom: 8px;
+}
+
+.thread{
+  margin-bottom: 20px;
+  border-bottom: 1px solid #000000;
+}
+
+.action{
+  float: left;
+}
+
+.edit{
+  float: none;
+}
+
+span.ingredient {
+    color: #f00;
+}
